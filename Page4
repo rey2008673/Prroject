@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+</head>
+<body>
+
+
+<!<table border="1">
+
+<center><table border="0">
+    <tr>
+        <th><a href="index.html">HOME</a> |</th>	<th></th>
+        <th><a href="page2.html">PLACES TO HANG OUT</a> |</th><th></th>
+       	<th><a href="page3.html">LEAVE A COMMENT</a> |</th>	<th></th>
+        <th><a href="page4.html">ABOUT ME</a> |</th>
+    </tr>
+
+</table>
+
+<hr>
+
+
+<table border="1">
+    <tr>
+        <td>Name</td>
+        <td>Rey Mahilum</td>
+    </tr>
+    <tr>
+        <td>Address</td>
+        <td>st john villas</td>
+    </tr>
+    <tr>
+        <td>Email address</td>
+        <td>Mahilum2098@gmail.com</td>
+    </tr>
+    <tr>
+        <td>Contact number</td>
+        <td>09851689385</td>
+    </tr>
+    <tr>
+        <td>Facebook</td>
+        <td><a href="https://www.facebook.com/rey.padillia.mahilum">My fbpage</a></td>
+    </tr>
+</table>
+
+<br>
+
+<img src="/storage/emulated/0/Pictures/facebook/rsbongto.jpg" alt="My Picture" width="500">
+
+<h3>Life verse</h3>
+<p>Your life verse here...</p></center>
+
+
+
+</body>
+</html>
