@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Places to Hang Out</title>
+</head>
+<body>
+
+<center><table border="0">
+    <tr>
+        <th><a href="index.html">HOME</a> |</th>	<th></th>
+        <th><a href="page2.html">PLACES TO HANG OUT</a> |</th>
+        	<th><a href="page3.html">LEAVE A COMMENT</a> |</th><th></th>
+        <th><a href="page4.html">ABOUT ME</a></a> |</th> </tr>
+</table></center>
+
+
+<hr>
+<center>
+
+<h3>General Macarthur</h3>
+<img src="/storage/emulated/0/Download/Pictures/facebook/1755497306256.jpg" alt="place 1" width="300" height="200">
+<p>Reason why you keep coming back to this place.because this place is memorable.</p>
+<img src="/storage/emulated/0/Pictures/facebook/1755344545815.jpg" alt="Place 2" width="300" height="200">
+<p>Reason why you keep coming back to this place.</p></center>
+
+</body>
+</html>
